@@ -33,11 +33,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jhamim-py&theme=radical&hide_border=true) <br> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhamim-py&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-</center>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Star passing" width="300" min-width="300px" max-width="300px" align="right"> 
-  
-![](https://github-readme-stats.vercel.app/api?username=Jhamim-py&theme=radical&hide_border=true&include_all_commits=false&count_private=true) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jhamim-py&theme=radical&hide_border=true) <br> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhamim-py&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e60505&height=120&section=footer"/>
