@@ -13,7 +13,7 @@
 
 
 ❤️ Passionate about technology.<br>
-📚 Studying Systems Development Analysis at SEENAI Suiço Brasileiro. (2/3)<br>
+📚 Studying Systems Development Analysis at SENAI Suiço Brasileiro.(2/3)<br>
 🌱 Learning more about Front-end, Back-end, Database and Mobile <br>
 <br>
 
